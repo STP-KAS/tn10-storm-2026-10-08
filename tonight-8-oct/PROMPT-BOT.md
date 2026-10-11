@@ -36,7 +36,7 @@ If n0 is unsynced, or more than 300 seconds behind, do not spend. If free disk i
 
 - Target **188 tx/s** for 15 minutes, then stop. Build is sending 62 tx/s in the same quarter-hour. The pair is 250 tx/s total.
 - **6** runners, **4** connections each. Depth **2**. Never 7. Never 8.
-- n0 only. Do not send through the desk's public senders. Do not send to `bore.pub` or `159.223.110.159`.
+- n0 only. Do not send through the desk's public senders. Do not send to `[tunnel]` or `[ip]`.
 - Fee frozen at **200 and 300** sompi/gram, cap **600**. Half the lanes at each tier. Own coins only.
 - Probes off. Ordered stream off. Those stay a Friday B0 behavior. This sample is the lane runners only, and the log says so.
 - Box miners stay as they are. Log the count. Do not switch them.

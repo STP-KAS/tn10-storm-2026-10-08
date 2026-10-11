@@ -50,7 +50,7 @@ The hours from 00:25 UTC to 05:30 UTC have no named phase. He asked to name them
 - The Build wallet only. Do not spend the Bot wallet.
 - Every step goes to locus, the first desk kaspad, on loopback Borsh. Four fixed processes. Depth 2. In-flight 48. Four connections. No auto-scale. No mempool pause inside a step.
 - Long hold and the uncapped max stay on locus: depth 2, in-flight 64, fee frozen at 200 and 300 sompi/gram, cap 600.
-- `bore.pub` and `159.223.110.159` stay closed. Leave the 3 Oct halt on the older fleet in place.
+- `[tunnel]` and `[ip]` stay closed. Leave the 3 Oct halt on the older fleet in place.
 - Keys stay on the desk. Do not print a key, a seed, or a wallet file.
 
 ## When the first TPS starts

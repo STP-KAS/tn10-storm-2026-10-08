@@ -54,7 +54,7 @@ One step. Miners stay as they are. No miners-off. No seventh runner. No eighth. 
 
 Fee frozen at **200 and 300** sompi/gram, cap **600**. Half the lanes at each tier. Recheck the public quote at 18:30 UTC. If the normal quote on the node a sender will use is already above 200, do not start. Ask stp.
 
-Build spends the Build wallet. The bot spends the Bot wallet. Build does not send to n0, to `bore.pub`, or to `159.223.110.159`. The bot does not send through the desk's public senders.
+Build spends the Build wallet. The bot spends the Bot wallet. Build does not send to n0, to `[tunnel]`, or to `[ip]`. The bot does not send through the desk's public senders.
 
 The older fleet halt stays in place. This sample does not clear it, and it does not write a measure STOP file. The sample process exits at 18:45 UTC because its own end time says so.
 

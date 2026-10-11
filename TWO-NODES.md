@@ -19,11 +19,11 @@ Both kaspad processes are on this desk. Network `testnet-10`. UTXO index on. Nei
 | Name | Which process | Who uses it |
 |---|---|---|
 | **locus** | The first desk kaspad. Loopback Borsh. | Grok Build, on every step |
-| **keel** | The second desk kaspad. The handoff still writes `node=desk-nodeB`. New logs use `keel`. On the desk, Borsh is `ws://127.0.0.1:17310` and gRPC is `127.0.0.1:16310`. | The bot's runner and the bot's miners, through the tunnel |
+| **keel** | The second desk kaspad. The handoff still writes `node=desk-nodeB`. New logs use `keel`. On the desk, Borsh is `ws://[ip]` and gRPC is `[ip]`. | The bot's runner and the bot's miners, through the tunnel |
 
 **n0 will not run.** n0 is the box kaspad. Do not start it, resync it, or keep disk aside for its pruning. The bot does not send through it, and the bot's miners do not mine on it.
 
-**The bot.** The runner and the miners both use the tunnel stp provides to keel. The runner uses the tunnel's Borsh `ws://` address, only during the storm, and only while keel is synced and its tip lag is at or under 300 seconds. The miners use the tunnel's gRPC host and port. Coinbase pays the Grok Bot address `kaspatest:qzffl5xy9np46gkttyuftqnv2w04pr8g3wsp7c3vv8se3txtelx6q7c0v0ldx`. They mine only while keel is synced. Until the handoff lists that tunnel, the runner and the miners wait. Do not invent a host. From the box, do not use `127.0.0.1`. A short box disk stops the bot and does not stop Build.
+**The bot.** The runner and the miners both use the tunnel stp provides to keel. The runner uses the tunnel's Borsh `ws://` address, only during the storm, and only while keel is synced and its tip lag is at or under 300 seconds. The miners use the tunnel's gRPC host and port. Coinbase pays the Grok Bot address `[address]`. They mine only while keel is synced. Until the handoff lists that tunnel, the runner and the miners wait. Do not invent a host. From the box, do not use `[ip]`. A short box disk stops the bot and does not stop Build.
 
 **keel is in the score while it syncs.** Read at 2026-10-09T07:59:26Z: block download 69%, last block 2026-10-08T17:03:33Z, not synced, tunnels closed. For those minutes keel's accepted rate is 0 and the row says `waiting`. The combined rate is locus alone. Desk miners stay on locus until keel is synced. Do not point them at keel before that.
 
@@ -37,7 +37,7 @@ Both kaspad processes are on this desk. Network `testnet-10`. UTXO index on. Nei
 
 **Monitoring.** While keel is not synced, the desk watches the block download and the tunnel stays closed. When keel is synced, the desk opens the tunnel, writes both addresses in the handoff, and says them. That report is not the storm GO. From T0 the sheet is [STP-KAS/tn10-storm-2026-10-09](https://github.com/STP-KAS/tn10-storm-2026-10-09) `plan/MONITOR.md`, and the checklist is `plan/NEXT-RUN-MONITOR.md`. The desk writes the combined row. The box prints its block. A missing required line is **not measured**. A waiting keel minute adds 0 and is not a failed match. If this page and `NEXT-STORM-PLAN.md` disagree on a clock, a fee, or a question, the questions plan wins. If they disagree on the node, this page wins.
 
-`bore.pub` and `159.223.110.159` stay closed.
+`[tunnel]` and `[ip]` stay closed.
 
 ---
 

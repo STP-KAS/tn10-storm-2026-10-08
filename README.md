@@ -5,6 +5,8 @@
 > **Part of [tn-master](https://github.com/STP-KAS/tn-master)**, the map of every TN10 storm. Renamed on 11 Oct 2026 from `grok-bot-build-combo`; old links redirect here.
 >
 > ← previous storm: [tn10-storm-2026-10-07](https://github.com/STP-KAS/tn10-storm-2026-10-07) | next storm: [tn10-storm-2026-10-09](https://github.com/STP-KAS/tn10-storm-2026-10-09) →
+>
+> **Cleaned on 11 Oct 2026:** IPs, tunnel hosts, wallet addresses, 64-hex hashes and local paths in the current files are replaced by `[ip]`, `[tunnel]`, `[address]`, `[hash]` and `[local path]`. Older commits still contain the originals; history was not rewritten.
 
 Thank you, Kaspa Pulse (@gokugalax), for the guidance and the input over this stretch, from 4 Oct 2026 on. The 7 Oct 2026 wording stays: sign-and-send processes are senders; runner is the setup; bot is reserved for the operator.
 

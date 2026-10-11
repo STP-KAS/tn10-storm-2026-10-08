@@ -62,7 +62,7 @@ If Build usage is exhausted, do not spend. Write the counter, or **not measured*
 
 - Target **62 tx/s** for 15 minutes, then exit.
 - **4** fixed senders. Depth **2**. In-flight **48**. **4** connections. Each sender has its own coins. No auto-scale. No mempool pause inside the 15 minutes.
-- Public TN10 nodes only. The desk node stays out of this sample, including while it resyncs. Never n0. Never `bore.pub`. Never `159.223.110.159`.
+- Public TN10 nodes only. The desk node stays out of this sample, including while it resyncs. Never n0. Never `[tunnel]`. Never `[ip]`.
 - Fee frozen at **200 and 300** sompi/gram, cap **600**. Half the lanes at each tier.
 - At 18:30 UTC, read the normal quote. If it is already above 200 on a node you will use, do not start. Ask.
 - One sender family. If a Build sender is already running, stop and ask.

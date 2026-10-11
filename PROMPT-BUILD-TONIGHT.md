@@ -48,7 +48,7 @@ One TN10 kaspad is already running on this desk, testnet-10, UTXO index on, same
 
 Do not start a second kaspad. Do not start a mainnet node.
 
-Tonight's senders do not use this node. A sample uses public TN10 nodes only. Never n0. Never `bore.pub`. Never `159.223.110.159`.
+Tonight's senders do not use this node. A sample uses public TN10 nodes only. Never n0. Never `[tunnel]`. Never `[ip]`.
 
 ## Spend
 
