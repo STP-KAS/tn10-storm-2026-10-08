@@ -2,7 +2,7 @@
 
 Paste this into the Grok bot. Sending this GitHub to Grok Build or to the bot means go: start the operation. This file does not lock the questions plan and does not spend. The node order is [TWO-NODES.md](TWO-NODES.md).
 
-If this file disagrees with [NEXT-STORM-PLAN.md](https://github.com/STP-KAS/tn10-storm-throughput-questions/blob/main/plan/NEXT-STORM-PLAN.md) on a clock, a fee, or a question, stop and ask stp. The plan wins. If they disagree on the node, [TWO-NODES.md](TWO-NODES.md) wins. [BOT-TPS.md](https://github.com/STP-KAS/tn10-storm-throughput-questions/blob/main/plan/BOT-TPS.md) is rate advice from the desk pre-run. It is not this prompt.
+If this file disagrees with [NEXT-STORM-PLAN.md](https://github.com/STP-KAS/tn10-storm-2026-10-04-questions/blob/main/plan/NEXT-STORM-PLAN.md) on a clock, a fee, or a question, stop and ask stp. The plan wins. If they disagree on the node, [TWO-NODES.md](TWO-NODES.md) wins. [BOT-TPS.md](https://github.com/STP-KAS/tn10-storm-2026-10-04-questions/blob/main/plan/BOT-TPS.md) is rate advice from the desk pre-run. It is not this prompt.
 
 ## Goal
 
@@ -52,7 +52,7 @@ Per-transaction logs stay on. Times are UTC with milliseconds and `Z`. Match thi
 
 Point this side's miners at keel through the same tunnel, gRPC host and port from the handoff. Coinbase pays the Grok Bot address `kaspatest:qzffl5xy9np46gkttyuftqnv2w04pr8g3wsp7c3vv8se3txtelx6q7c0v0ldx`. Mine only while keel is synced and the handoff lists the tunnel. Until then the miners stay off. Do not point them at n0.
 
-The next run's monitor is [plan/NEXT-RUN-MONITOR.md](https://github.com/STP-KAS/tn10-locus/blob/main/plan/NEXT-RUN-MONITOR.md). Print one block every 10 minutes for the desk to copy: UTC, phase, session, sender count, box disk GB, NTP offset, usage or **not measured**, keel synced, keel lag seconds, keel mempool, keel CPU, submit tx/s, accepted tx/s, rejects, miner count. If keel is unsynced, the tunnel is missing, or lag is over 300 seconds, sender count is 0 and the block says `waiting`. A missing block stays **not measured** and fails this side's part of the pass. The runner stays off outside the storm.
+The next run's monitor is [plan/NEXT-RUN-MONITOR.md](https://github.com/STP-KAS/tn10-storm-2026-10-09/blob/main/plan/NEXT-RUN-MONITOR.md). Print one block every 10 minutes for the desk to copy: UTC, phase, session, sender count, box disk GB, NTP offset, usage or **not measured**, keel synced, keel lag seconds, keel mempool, keel CPU, submit tx/s, accepted tx/s, rejects, miner count. If keel is unsynced, the tunnel is missing, or lag is over 300 seconds, sender count is 0 and the block says `waiting`. A missing block stays **not measured** and fails this side's part of the pass. The runner stays off outside the storm.
 
 ## Minute log, on top of the per-second log
 

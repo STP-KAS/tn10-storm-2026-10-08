@@ -12,7 +12,7 @@ Two hours. **18:00–20:00 UTC**.
 
 The storm stays **Friday 9 Oct 2026, 21:30 UTC, for 8 hours**, ending Saturday 10 Oct 2026, 05:30 UTC. If Friday is not ready, Monday 13 Oct 2026, 21:30 UTC, for 8 hours. This folder does not give the storm GO, does not lock the plan, and does not start a sender.
 
-The measurement plan is [NEXT-STORM-PLAN.md](https://github.com/STP-KAS/tn10-storm-throughput-questions/blob/main/plan/NEXT-STORM-PLAN.md). If this folder and that plan disagree, the plan wins.
+The measurement plan is [NEXT-STORM-PLAN.md](https://github.com/STP-KAS/tn10-storm-2026-10-04-questions/blob/main/plan/NEXT-STORM-PLAN.md). If this folder and that plan disagree, the plan wins.
 
 ## Why these two hours exist
 

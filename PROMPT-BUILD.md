@@ -2,13 +2,13 @@
 
 Paste this into Grok Build on the desk. Sending this GitHub to Grok Build or to the bot means go: start the operation. This file does not lock the questions plan and does not spend. The node order is [TWO-NODES.md](TWO-NODES.md).
 
-If this file disagrees with [NEXT-STORM-PLAN.md](https://github.com/STP-KAS/tn10-storm-throughput-questions/blob/main/plan/NEXT-STORM-PLAN.md), stop and ask stp. The plan wins. The longer desk paste-in is [GROK-BUILD-PROMPT.md](https://github.com/STP-KAS/tn10-storm-throughput-questions/blob/main/plan/GROK-BUILD-PROMPT.md). The run, once the storm GO and `steps-utc.json` exist, is [TESTDAY.md](https://github.com/STP-KAS/tn10-storm-throughput-questions/blob/main/plan/TESTDAY.md).
+If this file disagrees with [NEXT-STORM-PLAN.md](https://github.com/STP-KAS/tn10-storm-2026-10-04-questions/blob/main/plan/NEXT-STORM-PLAN.md), stop and ask stp. The plan wins. The longer desk paste-in is [GROK-BUILD-PROMPT.md](https://github.com/STP-KAS/tn10-storm-2026-10-04-questions/blob/main/plan/GROK-BUILD-PROMPT.md). The run, once the storm GO and `steps-utc.json` exist, is [TESTDAY.md](https://github.com/STP-KAS/tn10-storm-2026-10-04-questions/blob/main/plan/TESTDAY.md).
 
 ## Which file is the Friday paste
 
 This file is the paste until stp says otherwise.
 
-After the 8 Oct checkout, Build writes [plan/GROK-BUILD-PROMPT-AFTER-8-OCT.md](https://github.com/STP-KAS/tn10-storm-throughput-questions/blob/main/plan/GROK-BUILD-PROMPT-AFTER-8-OCT.md) from the checkout result and from Kaspa Pulse's input. Do not use that file while it still says it is not written yet. Do not use it at all unless stp has said it replaces this file. The checkout note is [plan/AFTER-8-OCT.md](https://github.com/STP-KAS/tn10-storm-throughput-questions/blob/main/plan/AFTER-8-OCT.md).
+After the 8 Oct checkout, Build writes [plan/GROK-BUILD-PROMPT-AFTER-8-OCT.md](https://github.com/STP-KAS/tn10-storm-2026-10-04-questions/blob/main/plan/GROK-BUILD-PROMPT-AFTER-8-OCT.md) from the checkout result and from Kaspa Pulse's input. Do not use that file while it still says it is not written yet. Do not use it at all unless stp has said it replaces this file. The checkout note is [plan/AFTER-8-OCT.md](https://github.com/STP-KAS/tn10-storm-2026-10-04-questions/blob/main/plan/AFTER-8-OCT.md).
 
 ## Goal
 
@@ -28,7 +28,7 @@ Comparison comes to us first. Do not send him this run from the paste. Do not pi
 
 ## Update the checkout PDF you made from this git
 
-If you are the session that made the checkout PDF from https://github.com/STP-KAS/grok-bot-build-combo , update that same PDF from current main before any send. Do not make a second PDF. Do not change the layout. Do not send it to him.
+If you are the session that made the checkout PDF from https://github.com/STP-KAS/tn10-storm-2026-10-08 , update that same PDF from current main before any send. Do not make a second PDF. Do not change the layout. Do not send it to him.
 
 Write only the 8 Oct changes: his counter beside our clock, the minute line with the id cells still empty, 7 Oct closed, and the hours after 00:25 left unnamed until stp chooses. No key, no seed, no address, no txid.
 
@@ -63,7 +63,7 @@ Build keeps sending on locus. The bot's runner and the bot's miners use the tunn
 
 Per-transaction logs stay on. Times are UTC with milliseconds and `Z`. The 8 Oct high-rate rounds turned that log off. This run does not.
 
-The next run's monitor is [plan/NEXT-RUN-MONITOR.md](https://github.com/STP-KAS/tn10-locus/blob/main/plan/NEXT-RUN-MONITOR.md). Do every Build line on that page. The 10-minute row still goes to `tonight-8-oct/RESULTS.md` until the storm sheet exists, and it includes desk disk, NTP, usage or **not measured**, submit tx/s, accepted tx/s, the six public mempools by name, locus mempool, indexer health, free RAM, and the miner count. Per minute the node cell is `locus`. Five tx ids stay in the local log. A blank required line is **not measured** and fails the pass. His accepted count is his.
+The next run's monitor is [plan/NEXT-RUN-MONITOR.md](https://github.com/STP-KAS/tn10-storm-2026-10-09/blob/main/plan/NEXT-RUN-MONITOR.md). Do every Build line on that page. The 10-minute row still goes to `tonight-8-oct/RESULTS.md` until the storm sheet exists, and it includes desk disk, NTP, usage or **not measured**, submit tx/s, accepted tx/s, the six public mempools by name, locus mempool, indexer health, free RAM, and the miner count. Per minute the node cell is `locus`. Five tx ids stay in the local log. A blank required line is **not measured** and fails the pass. His accepted count is his.
 
 ## Minute log, on top of the per-second log
 

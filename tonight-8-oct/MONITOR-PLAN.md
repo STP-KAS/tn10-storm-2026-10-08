@@ -6,9 +6,9 @@ Thank you, Kaspa Pulse (@gokugalax), for the guidance and the input over this st
 
 # Monitor plan
 
-This page lists the monitor demands already written in [grok-bot-build-combo](https://github.com/STP-KAS/grok-bot-build-combo) and [tn10-storm-throughput-questions](https://github.com/STP-KAS/tn10-storm-throughput-questions). It does not add a demand. It does not lock the plan. It does not ping Kaspa Pulse. Comparison comes to us first. Ids, keys, seeds, and addresses stay out of git.
+This page lists the monitor demands already written in [tn10-storm-2026-10-08](https://github.com/STP-KAS/tn10-storm-2026-10-08) and [tn10-storm-2026-10-04-questions](https://github.com/STP-KAS/tn10-storm-2026-10-04-questions). It does not add a demand. It does not lock the plan. It does not ping Kaspa Pulse. Comparison comes to us first. Ids, keys, seeds, and addresses stay out of git.
 
-If this page and [NEXT-STORM-PLAN.md](https://github.com/STP-KAS/tn10-storm-throughput-questions/blob/1335faffbfb5407d7eda665d60203f455813a933/plan/NEXT-STORM-PLAN.md) disagree, the plan wins.
+If this page and [NEXT-STORM-PLAN.md](https://github.com/STP-KAS/tn10-storm-2026-10-04-questions/blob/1335faffbfb5407d7eda665d60203f455813a933/plan/NEXT-STORM-PLAN.md) disagree, the plan wins.
 
 ## Where each demand already sits
 
@@ -17,8 +17,8 @@ If this page and [NEXT-STORM-PLAN.md](https://github.com/STP-KAS/tn10-storm-thro
 | His five questions, six method points, four tightenings, cadence, 7 Oct compare, 8 Oct clocks and three fields | [tonight-8-oct/PULSE.md](PULSE.md) | `cb960744524f17dd88b0e7f22f2c6c7bb049690d` |
 | Ten-minute rows, sample second log, sample minute log, pass rules | [tonight-8-oct/MONITOR.md](MONITOR.md) | same |
 | Thursday phases, rehearsal GO, Friday call | [tonight-8-oct/PLAN.md](PLAN.md) | same |
-| Friday measurement rules §1 through §8 | [plan/NEXT-STORM-PLAN.md](https://github.com/STP-KAS/tn10-storm-throughput-questions/blob/1335faffbfb5407d7eda665d60203f455813a933/plan/NEXT-STORM-PLAN.md) | `1335faffbfb5407d7eda665d60203f455813a933` |
-| 7 Oct window reading | [plan/PULSE-WINDOW-7-OCT.md](https://github.com/STP-KAS/tn10-storm-throughput-questions/blob/1335faffbfb5407d7eda665d60203f455813a933/plan/PULSE-WINDOW-7-OCT.md) | same |
+| Friday measurement rules §1 through §8 | [plan/NEXT-STORM-PLAN.md](https://github.com/STP-KAS/tn10-storm-2026-10-04-questions/blob/1335faffbfb5407d7eda665d60203f455813a933/plan/NEXT-STORM-PLAN.md) | `1335faffbfb5407d7eda665d60203f455813a933` |
+| 7 Oct window reading | [plan/PULSE-WINDOW-7-OCT.md](https://github.com/STP-KAS/tn10-storm-2026-10-04-questions/blob/1335faffbfb5407d7eda665d60203f455813a933/plan/PULSE-WINDOW-7-OCT.md) | same |
 
 The desk clone of the questions repo is `2c5235b23d4fdd9a814af4703fafdef01165d3e1`, five commits ahead of that GitHub commit. Those five commits are not pushed by this page. `plan/PULSE-README.md` is in the desk clone and is the same list as [PULSE.md](PULSE.md). It is not on `origin/main` yet.
 
@@ -159,7 +159,7 @@ Side by side, before any reading: his chain count and our count, on the same win
 
 ## 7 Oct compare
 
-Closed on 8 Oct. He asked for start, end, target tx/s, sent against accepted, which node, and a handful of tx ids for 18:52–19:23 UTC. Our log does not cover that window. The last submit is 18:38:39 UTC. Neither the 2,750 figure nor the pool near 9.7k is a ceiling. The reading is [PULSE-WINDOW-7-OCT.md](https://github.com/STP-KAS/tn10-storm-throughput-questions/blob/1335faffbfb5407d7eda665d60203f455813a933/plan/PULSE-WINDOW-7-OCT.md). Tonight does not invent that window.
+Closed on 8 Oct. He asked for start, end, target tx/s, sent against accepted, which node, and a handful of tx ids for 18:52–19:23 UTC. Our log does not cover that window. The last submit is 18:38:39 UTC. Neither the 2,750 figure nor the pool near 9.7k is a ceiling. The reading is [PULSE-WINDOW-7-OCT.md](https://github.com/STP-KAS/tn10-storm-2026-10-04-questions/blob/1335faffbfb5407d7eda665d60203f455813a933/plan/PULSE-WINDOW-7-OCT.md). Tonight does not invent that window.
 
 ## Who writes, and who does not
 

@@ -8,7 +8,7 @@ Thank you, Kaspa Pulse (@gokugalax), for the guidance and the input over this st
 
 You are TN10 ops, the operator on the box. Thursday 8 Oct 2026 checkout. Window **18:00:00Z–20:00:00Z**. Stop at 20:00 UTC.
 
-This paste is the checkout. The Friday paste is `PROMPT-BOT.md` at the root of the private combo repo. If the clock is Friday, stop and use that file. The measurement plan wins if this paste disagrees with it: https://github.com/STP-KAS/tn10-storm-throughput-questions/blob/main/plan/NEXT-STORM-PLAN.md
+This paste is the checkout. The Friday paste is `PROMPT-BOT.md` at the root of the private combo repo. If the clock is Friday, stop and use that file. The measurement plan wins if this paste disagrees with it: https://github.com/STP-KAS/tn10-storm-2026-10-04-questions/blob/main/plan/NEXT-STORM-PLAN.md
 
 20:00 UTC is the stop. A DM that aims the pre-test at 20:00 UTC does not move this window. If this box is down at 18:00, write **not measured** and do not start a sender at 20:00.
 

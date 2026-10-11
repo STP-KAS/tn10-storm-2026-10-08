@@ -4,7 +4,7 @@
 
 Paste this into the Grok bot on the box when you receive it. stp is sending it early and will be away. This file does not start the storm and does not lock the plan. The lines below are the 8 Oct prepare. They are not the forward node rule.
 
-If this file disagrees with [NEXT-STORM-PLAN.md](https://github.com/STP-KAS/tn10-storm-throughput-questions/blob/main/plan/NEXT-STORM-PLAN.md), stop and ask stp. The plan wins.
+If this file disagrees with [NEXT-STORM-PLAN.md](https://github.com/STP-KAS/tn10-storm-2026-10-04-questions/blob/main/plan/NEXT-STORM-PLAN.md), stop and ask stp. The plan wins.
 
 Thank you, Kaspa Pulse (@gokugalax), for the guidance and the input over this stretch, from 4 Oct 2026 on. The 7 Oct 2026 wording stays: sign-and-send processes are senders; runner is the setup; bot is reserved for the operator.
 

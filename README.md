@@ -1,6 +1,10 @@
 > **Experimental. We are just trying this.**
 >
 > [Disclaimer](DISCLAIMER.md)
+>
+> **Part of [tn-master](https://github.com/STP-KAS/tn-master)**, the map of every TN10 storm. Renamed on 11 Oct 2026 from `grok-bot-build-combo`; old links redirect here.
+>
+> ← previous storm: [tn10-storm-2026-10-07](https://github.com/STP-KAS/tn10-storm-2026-10-07) | next storm: [tn10-storm-2026-10-09](https://github.com/STP-KAS/tn10-storm-2026-10-09) →
 
 Thank you, Kaspa Pulse (@gokugalax), for the guidance and the input over this stretch, from 4 Oct 2026 on. The 7 Oct 2026 wording stays: sign-and-send processes are senders; runner is the setup; bot is reserved for the operator.
 
@@ -24,7 +28,7 @@ Checkout, 18:00–20:00 UTC. The folder is [tonight-8-oct](tonight-8-oct/README.
 
 On 8 Oct he read the checkout PDF and pointed his counter at that same 18:00–20:00 UTC, and at Friday 21:25 UTC through Saturday 05:35 UTC. Comparison comes to us first. The pastes now ask for a per-minute sent count, the node name, and five tx ids in the local log. Git still gets no ids. The DM times 20:00 UTC tonight and 21:00 UTC Friday are not these clocks.
 
-The measurement plan remains [NEXT-STORM-PLAN.md](https://github.com/STP-KAS/tn10-storm-throughput-questions/blob/main/plan/NEXT-STORM-PLAN.md). If this hub and that plan disagree on a clock, a fee, or a question, the plan wins. If they disagree on the node, [TWO-NODES.md](TWO-NODES.md) wins.
+The measurement plan remains [NEXT-STORM-PLAN.md](https://github.com/STP-KAS/tn10-storm-2026-10-04-questions/blob/main/plan/NEXT-STORM-PLAN.md). If this hub and that plan disagree on a clock, a fee, or a question, the plan wins. If they disagree on the node, [TWO-NODES.md](TWO-NODES.md) wins.
 
 ## Two prompts
 
@@ -77,8 +81,8 @@ The 6 Oct desk dry run has no logged "prompt pasted at" time. Its first numbers 
 
 | Check | Result |
 |---|---|
-| Build prompt | Written here, and the public paste-in is [GROK-BUILD-PROMPT.md](https://github.com/STP-KAS/tn10-storm-throughput-questions/blob/main/plan/GROK-BUILD-PROMPT.md). It does not start the storm. |
-| Bot prompt | Written here. The public [BOT-TPS.md](https://github.com/STP-KAS/tn10-storm-throughput-questions/blob/main/plan/BOT-TPS.md) is rate advice. It is not a go prompt. |
+| Build prompt | Written here, and the public paste-in is [GROK-BUILD-PROMPT.md](https://github.com/STP-KAS/tn10-storm-2026-10-04-questions/blob/main/plan/GROK-BUILD-PROMPT.md). It does not start the storm. |
+| Bot prompt | Written here. The public [BOT-TPS.md](https://github.com/STP-KAS/tn10-storm-2026-10-04-questions/blob/main/plan/BOT-TPS.md) is rate advice. It is not a go prompt. |
 | Desk node | testnet-10, kaspad 2.1.0, synced, UTXO index on, mempool 0. |
 | Six public names | All six answered testnet-10, kaspad 2.1.0, synced, UTXO index on. Mempool: vector-10 215, proton-10 550, electron-10 550, muon-10 4217, quark-10 612, neutrino-10 549. |
 | Bot node n0 | Not read. This desk has no shell on the box. |

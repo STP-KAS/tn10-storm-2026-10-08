@@ -8,7 +8,7 @@ Thank you, Kaspa Pulse (@gokugalax), for the guidance and the input over this st
 
 Thursday 8 Oct 2026 checkout. Window **18:00:00Z–20:00:00Z**. Stop at 20:00 UTC.
 
-This paste is the checkout. The Friday paste is the other file, `PROMPT-BUILD.md` at the repo root. If the clock is Friday, stop and use that file. The measurement plan wins if this paste disagrees with it: https://github.com/STP-KAS/tn10-storm-throughput-questions/blob/main/plan/NEXT-STORM-PLAN.md
+This paste is the checkout. The Friday paste is the other file, `PROMPT-BUILD.md` at the repo root. If the clock is Friday, stop and use that file. The measurement plan wins if this paste disagrees with it: https://github.com/STP-KAS/tn10-storm-2026-10-04-questions/blob/main/plan/NEXT-STORM-PLAN.md
 
 ## Clocks that are not this paste
 
@@ -24,7 +24,7 @@ The five hours after 00:25 UTC are a Friday choice. Do not name them in this pas
 
 ## Update the checkout PDF you made from this git
 
-You made that PDF from https://github.com/STP-KAS/grok-bot-build-combo . It is behind main. Update that same file before 17:50 UTC. Do not make a second PDF. Do not change the layout he already called solid. Do not send it to him.
+You made that PDF from https://github.com/STP-KAS/tn10-storm-2026-10-08 . It is behind main. Update that same file before 17:50 UTC. Do not make a second PDF. Do not change the layout he already called solid. Do not send it to him.
 
 Source is current main. The folder is `tonight-8-oct`, plus the two prompts at the repo root. If the PDF and main disagree, main wins. If main and the measurement plan disagree, stop and ask stp. The plan wins.
 
@@ -86,7 +86,7 @@ Print no key, no seed, and no address. Do not print the id list in chat. One cha
 
 ## Every 10 minutes, 18:00Z through 20:00Z
 
-Append one row to `tonight-8-oct/RESULTS.md` in the private repo https://github.com/STP-KAS/grok-bot-build-combo and push that file. The row is: UTC, phase, session up, sender count, desk disk GB, NTP offset, usage remaining or **not measured**, submit tx/s, accepted tx/s, the six public mempools by name, desk mempool, indexer health, note.
+Append one row to `tonight-8-oct/RESULTS.md` in the private repo https://github.com/STP-KAS/tn10-storm-2026-10-08 and push that file. The row is: UTC, phase, session up, sender count, desk disk GB, NTP offset, usage remaining or **not measured**, submit tx/s, accepted tx/s, the six public mempools by name, desk mempool, indexer health, note.
 
 The row stays a count row. Do not add tx ids to it.
 
@@ -98,10 +98,10 @@ At 19:40 UTC start the Friday call table already in that file. At 20:00 UTC writ
 
 The real test is not tonight. Tonight's numbers go in as the checkout, so the real-test prompt can be written from them.
 
-Write exactly two files in https://github.com/STP-KAS/tn10-storm-throughput-questions . Write no other file in that repo. Do not fill the Build result or the bot result.
+Write exactly two files in https://github.com/STP-KAS/tn10-storm-2026-10-04-questions . Write no other file in that repo. Do not fill the Build result or the bot result.
 
 1. Replace the body of `plan/AFTER-8-OCT.md` with the three blocks that file already names.
-   - The 8 Oct updates, cited by the commit SHA of https://github.com/STP-KAS/grok-bot-build-combo that you just read.
+   - The 8 Oct updates, cited by the commit SHA of https://github.com/STP-KAS/tn10-storm-2026-10-08 that you just read.
    - The checkout result. Counts and times. The bot's printed blocks, copied. If a block was not printed, **not measured**. If the sample did not run, say skipped, and why.
    - Kaspa Pulse's input. The 8 Oct note, plus anything new he sent during or after the checkout. If nothing new arrived, write **no new input**. Do not invent a sentence for him. Do not ping him.
 2. Then write `plan/GROK-BUILD-PROMPT-AFTER-8-OCT.md` for the real test. Only from that note and from `plan/NEXT-STORM-PLAN.md`. The plan wins. Follow the limits already written in the prompt file: do not move T0 unless a gate failed, do not name the hours after 00:25, do not change N or the fee or the share from a skip, keep the per-minute line, do not drop the per-second log.

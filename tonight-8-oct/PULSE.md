@@ -8,7 +8,7 @@ Thank you, Kaspa Pulse (@gokugalax), for the guidance and the input over this st
 
 Kaspa Pulse ([@gokugalax](https://x.com/gokugalax)), X DM, 4–7 Oct 2026. TN10 only. He stays out of the setup. He counts the chain on his side and sends the comparison first. We stay credited.
 
-The public write-up is [plan/PULSE-README.md](https://github.com/STP-KAS/tn10-storm-throughput-questions/blob/main/plan/PULSE-README.md) and [plan/PULSE-WINDOW-7-OCT.md](https://github.com/STP-KAS/tn10-storm-throughput-questions/blob/main/plan/PULSE-WINDOW-7-OCT.md). The measurement plan is [plan/NEXT-STORM-PLAN.md](https://github.com/STP-KAS/tn10-storm-throughput-questions/blob/main/plan/NEXT-STORM-PLAN.md). If this page and the plan disagree, the plan wins.
+The public write-up is [plan/PULSE-README.md](https://github.com/STP-KAS/tn10-storm-2026-10-04-questions/blob/main/plan/PULSE-README.md) and [plan/PULSE-WINDOW-7-OCT.md](https://github.com/STP-KAS/tn10-storm-2026-10-04-questions/blob/main/plan/PULSE-WINDOW-7-OCT.md). The measurement plan is [plan/NEXT-STORM-PLAN.md](https://github.com/STP-KAS/tn10-storm-2026-10-04-questions/blob/main/plan/NEXT-STORM-PLAN.md). If this page and the plan disagree, the plan wins.
 
 This page is his input as already given. It is not a new question to him. The wording line above is the 7 Oct 2026, 19:54 UTC correction, and it is not asked again.
 

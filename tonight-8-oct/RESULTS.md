@@ -135,9 +135,9 @@ Status: **not measured**. Due from 19:40 UTC. The lines and the pass rules are i
 
 ## Pre-test Build result
 
-Private Build readings from this desk on 8 Oct 2026. They are not the rehearsal sample, and they are not the storm. The public result sections in tn10-storm-throughput-questions stay empty. This note does not ping Kaspa Pulse. His accepted count is his.
+Private Build readings from this desk on 8 Oct 2026. They are not the rehearsal sample, and they are not the storm. The public result sections in tn10-storm-2026-10-04-questions stay empty. This note does not ping Kaspa Pulse. His accepted count is his.
 
-The monitor list is [MONITOR-PLAN.md](MONITOR-PLAN.md). The plan cited for the rules is [NEXT-STORM-PLAN.md](https://github.com/STP-KAS/tn10-storm-throughput-questions/blob/1335faffbfb5407d7eda665d60203f455813a933/plan/NEXT-STORM-PLAN.md) at `1335faffbfb5407d7eda665d60203f455813a933`. The desk copy of that repo is `2c5235b23d4fdd9a814af4703fafdef01165d3e1`, five commits ahead, and this note does not push it. The checkout this note was added to was `cb960744524f17dd88b0e7f22f2c6c7bb049690d`. This is not a lock.
+The monitor list is [MONITOR-PLAN.md](MONITOR-PLAN.md). The plan cited for the rules is [NEXT-STORM-PLAN.md](https://github.com/STP-KAS/tn10-storm-2026-10-04-questions/blob/1335faffbfb5407d7eda665d60203f455813a933/plan/NEXT-STORM-PLAN.md) at `1335faffbfb5407d7eda665d60203f455813a933`. The desk copy of that repo is `2c5235b23d4fdd9a814af4703fafdef01165d3e1`, five commits ahead, and this note does not push it. The checkout this note was added to was `cb960744524f17dd88b0e7f22f2c6c7bb049690d`. This is not a lock.
 
 On the finished runs that wrote a summary line, the figure used for accepted is that line's `accept_seen`. Summing the per-second `accept_seen` field undercounts on this harness. That sum is not used for pre8 or s7. Round 3 was stopped before it wrote a summary, so its accept figure is the per-second sum.
 
