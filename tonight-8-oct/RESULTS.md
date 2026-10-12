@@ -556,4 +556,4 @@ A four-sender public run and a fifteen-sender public start were stopped so the n
 
 not measured
 
-Intentions are good; thought process is questionable. STP remains delusional. Si vis pacem, para bellum.
+Si vis pacem, para bellum.

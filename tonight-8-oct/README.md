@@ -50,4 +50,4 @@ The Friday paste-ins stay [PROMPT-BUILD.md](../PROMPT-BUILD.md) and [PROMPT-BOT.
 4. Say **rehearsal GO** only if the 15-minute sample should run. Silence means the two hours are checks and monitor rows, with the lane senders off.
 5. At 20:00 UTC, read the Friday call at the bottom of [RESULTS.md](RESULTS.md).
 
-Intentions are good; thought process is questionable. STP remains delusional. Si vis pacem, para bellum.
+Si vis pacem, para bellum.

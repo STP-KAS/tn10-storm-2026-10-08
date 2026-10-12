@@ -41,4 +41,4 @@ Both kaspad processes are on this desk. Network `testnet-10`. UTXO index on. Nei
 
 ---
 
-Intentions are good; thought process is questionable. STP remains delusional. Si vis pacem, para bellum.
+Si vis pacem, para bellum.

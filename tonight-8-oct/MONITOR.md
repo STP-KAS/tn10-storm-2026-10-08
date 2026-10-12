@@ -77,4 +77,4 @@ All of these:
 
 Kaspa Pulse. His count is the chain. On 8 Oct 2026 he pointed it at tonight 18:00–20:00 UTC, and at Friday 21:25 UTC through Saturday 05:35 UTC, two nodes. Comparison comes to us first. Tonight's sheet is still ours. This checkout does not send it to him.
 
-Intentions are good; thought process is questionable. STP remains delusional. Si vis pacem, para bellum.
+Si vis pacem, para bellum.

@@ -165,4 +165,4 @@ Closed on 8 Oct. He asked for start, end, target tx/s, sent against accepted, wh
 
 Build appends [RESULTS.md](RESULTS.md) and pushes this private repo. The bot prints its block. The desk copies that block into the bot columns. Kaspa Pulse counts the chain from outside the setup. This checkout does not send him the sheet.
 
-Intentions are good; thought process is questionable. STP remains delusional. Si vis pacem, para bellum.
+Si vis pacem, para bellum.

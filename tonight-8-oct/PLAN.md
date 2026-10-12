@@ -117,4 +117,4 @@ If the bot disk is under 28 GB, or n0 is unsynced, or a session died, the call s
 - His counter, same day: tonight 18:00–20:00 UTC, and Friday 21:25 UTC through Saturday 05:35 UTC, two nodes. That is his clock. It does not move T0. Comparison comes to us first.
 - Kaspa Pulse counts the chain on his side, sends the comparison first, and stays out of the setup.
 
-Intentions are good; thought process is questionable. STP remains delusional. Si vis pacem, para bellum.
+Si vis pacem, para bellum.

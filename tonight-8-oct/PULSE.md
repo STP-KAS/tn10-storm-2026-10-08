@@ -101,4 +101,4 @@ Two changes where the checkout was touched again:
 
 Nothing else is asked of him.
 
-Intentions are good; thought process is questionable. STP remains delusional. Si vis pacem, para bellum.
+Si vis pacem, para bellum.

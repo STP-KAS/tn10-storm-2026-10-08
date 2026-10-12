@@ -86,4 +86,4 @@ Usage is the counter the product shows. If you cannot read one, write **not meas
 
 At 20:00 UTC print the stop line and stop. Leave Friday's storm GO for Friday.
 
-Intentions are good; thought process is questionable. STP remains delusional. Si vis pacem, para bellum.
+Si vis pacem, para bellum.

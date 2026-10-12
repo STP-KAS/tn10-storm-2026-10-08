@@ -108,4 +108,4 @@ Write exactly two files in https://github.com/STP-KAS/tn10-storm-2026-10-04-ques
 
 Do not paste the new prompt. Do not replace `plan/GROK-BUILD-PROMPT.md`. That replacement is stp's sentence, later. No key, no seed, no address, no txid. This section does not arm a spend.
 
-Intentions are good; thought process is questionable. STP remains delusional. Si vis pacem, para bellum.
+Si vis pacem, para bellum.
